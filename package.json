@@ -15,7 +15,8 @@
     "role",
     "authorization",
     "auth",
-    "node"
+    "node",
+    "role-auth"
   ],
   "author": "Suraj Umloti",
   "license": "ISC",
