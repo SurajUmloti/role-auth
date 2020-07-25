@@ -1,0 +1,26 @@
+{
+  "name": "role-auth",
+  "version": "1.0.0",
+  "description": "Simple middleware function which takes roles as parameter and returns if the request is from a valid role",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SurajUmloti/role-auth.git"
+  },
+  "keywords": [
+    "npm",
+    "role",
+    "authorization",
+    "auth",
+    "node"
+  ],
+  "author": "Suraj Umloti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SurajUmloti/role-auth/issues"
+  },
+  "homepage": "https://github.com/SurajUmloti/role-auth#readme"
+}
