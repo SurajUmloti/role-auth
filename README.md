@@ -1,5 +1,5 @@
 # role-auth
-Simple middleware for routes to check roles and allow only request with valid roles to go forward
+Simple middleware for routes to check roles and allow only request with valid roles to go forward.
 
 ## Installation
 
@@ -21,7 +21,9 @@ $ npm install role-auth
 ## Usage
 
 ```javascript
-const validateRole = require('role-auth');
+const validateRole = require('role-auth'); // In Javascript
+// OR
+import validateRole from 'role-auth'; // In Typescript
 ```
 
 Adding role check at application level

@@ -1,7 +1,7 @@
 {
   "name": "role-auth",
-  "version": "1.0.0",
-  "description": "Simple middleware function which takes roles as parameter and returns if the request is from a valid role",
+  "version": "1.1.0",
+  "description": "[Role Based Auth] Simple middleware for routes to check and allow only request with valid roles to go forward.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,7 +19,7 @@
     "role-auth"
   ],
   "author": "Suraj Umloti",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/SurajUmloti/role-auth/issues"
   },
